@@ -8,6 +8,7 @@ namespace Cprograms
 {
     public class RemoveD    
     {                //using linq chandrashekar
+        //please cheak the code
         public static void Main()
         {
             string input = "swamiiii";
