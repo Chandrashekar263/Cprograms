@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Cprograms
 {
     public class RemoveD    
-    {                
+    {                //using linq chandrashekar
         public static void Main()
         {
             //hi
