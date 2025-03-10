@@ -7,7 +7,7 @@
 //namespace Cprograms
 //{
 //    public class Resversestring
-//    {                              //USING LINQ INDIA
+//    {                              //USING LINQ
 //        static void Main()
 //        {
 //            string input = "CHANDRASHEKAR";
